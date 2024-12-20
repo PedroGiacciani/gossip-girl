@@ -8,8 +8,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 </head>
 <body>
-    <span id="burguer" class="material-symbols-outlined">menu</span>
-    <menu>
+    <span id="burguer" class="material-symbols-outlined" onclick="clickMenu()">menu</span>
+    <menu id="itens">
         <ul>
             <li><img src="midia/home_icon.png" alt="home"></li>
             <li><img src="midia/posts_icon.png" alt="posts"></li>
@@ -26,5 +26,16 @@
             <p>Olá galera do Upper West Side, Garota do Blog aqui. Quem diria que em plena época de paz uma figura nova apareceria para trazer a tempestade no copo da água. O que será do coração desse pobre garoto solitário com uma nova paixão a vista?</p>
         </article>
     </main>
+    <script>
+        function clickMenu(){
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }
+        }
+
+
+    </script>
 </body>
 </html>
