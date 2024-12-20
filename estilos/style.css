@@ -36,14 +36,14 @@ menu > ul > li{
 }
 
 menu > ul > li > img{
-    width: 10%;
+    width: 20%;
     border-radius: 100%;
     padding: 10px;
 }
 
 h1{
     font-family: 'Neue', Arial, Helvetica, sans-serif;
-    font-size: 6em;
+    font-size: 5em;
     color: #B3AE8D;
     text-align: center;
     text-shadow: 1px 2px 5px silver;
