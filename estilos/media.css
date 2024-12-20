@@ -9,7 +9,7 @@ Desktop: 1025px até 1440px
 Grandes telas: acima de 1441px
 */
 
-@media screen and (min-width: 769px) and (orientation: landscape){
+@media screen and (orientation: landscape){
     body{
         position: relative;
     }
