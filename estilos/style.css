@@ -40,7 +40,7 @@ menu > ul > li{
 }
 
 menu > ul > li > img{
-    width: 15%;
+    width: 20%;
     border-radius: 100%;
     padding: 5px;
 }
@@ -78,5 +78,3 @@ main article p{
     padding: 20px;
     font-size: 1.5em;
 }
-
-/*#B3AE8D*/
