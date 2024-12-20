@@ -78,3 +78,27 @@ main article p{
     margin: 0% 10% 0% 10%;
     padding-bottom: 10px;
 }
+
+main section h3#wel{
+    color: #0F71B1;
+}
+
+main section h3#gossip{
+    color: #BB5F54;
+}
+
+main section h3#fotos{
+    color: #AAAF79;
+}
+
+main section h3#parties{
+    color: #A2446F;
+}
+
+main section h3#corrente{
+    color: #96C471;
+}
+
+main section p{
+    color: white
+}
